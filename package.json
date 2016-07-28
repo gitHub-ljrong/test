@@ -1,0 +1,26 @@
+{
+  "name": "qhf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "qhf": "./bin/qhf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitHub-ljrong/test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "fs": "0.0.2",
+    "fs-extra": "^0.30.0"
+  }
+}
