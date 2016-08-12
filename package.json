@@ -1,6 +1,6 @@
 {
   "name": "qhf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -16,11 +16,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "art-template": "^3.0.3",
     "commander": "^2.9.0",
+    "fs": "0.0.2",
     "path": "^0.12.7"
   },
   "devDependencies": {
-    "fs": "0.0.2",
     "fs-extra": "^0.30.0"
   }
 }
